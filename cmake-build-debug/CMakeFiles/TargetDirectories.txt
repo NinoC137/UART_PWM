@@ -1,0 +1,3 @@
+E:/Clion_for_STM32/UART_PWM/cmake-build-debug/CMakeFiles/UART_PWM.elf.dir
+E:/Clion_for_STM32/UART_PWM/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Clion_for_STM32/UART_PWM/cmake-build-debug/CMakeFiles/rebuild_cache.dir

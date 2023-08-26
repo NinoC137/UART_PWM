@@ -1,0 +1,20 @@
+CMakeFiles/UART_PWM.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj: \
+ E\:\Clion_for_STM32\UART_PWM\Middlewares\Third_Party\FreeRTOS\Source\croutine.c \
+ E\:\Clion_for_STM32\UART_PWM\Middlewares\Third_Party\FreeRTOS\Source\include/FreeRTOS.h \
+ e\:\gcc-arm-none-eabi-10-2020-q4-major\lib\gcc\arm-none-eabi\10.2.1\include\stddef.h \
+ e\:\gcc-arm-none-eabi-10-2020-q4-major\lib\gcc\arm-none-eabi\10.2.1\include\stdint.h \
+ e\:\gcc-arm-none-eabi-10-2020-q4-major\arm-none-eabi\include\stdint.h \
+ e\:\gcc-arm-none-eabi-10-2020-q4-major\arm-none-eabi\include\machine\_default_types.h \
+ e\:\gcc-arm-none-eabi-10-2020-q4-major\arm-none-eabi\include\sys\features.h \
+ e\:\gcc-arm-none-eabi-10-2020-q4-major\arm-none-eabi\include\_newlib_version.h \
+ e\:\gcc-arm-none-eabi-10-2020-q4-major\arm-none-eabi\include\sys\_intsup.h \
+ e\:\gcc-arm-none-eabi-10-2020-q4-major\arm-none-eabi\include\sys\_stdint.h \
+ E\:\Clion_for_STM32\UART_PWM\Core\Inc/FreeRTOSConfig.h \
+ E\:\Clion_for_STM32\UART_PWM\Middlewares\Third_Party\FreeRTOS\Source\include/projdefs.h \
+ E\:\Clion_for_STM32\UART_PWM\Middlewares\Third_Party\FreeRTOS\Source\include/portable.h \
+ E\:\Clion_for_STM32\UART_PWM\Middlewares\Third_Party\FreeRTOS\Source\include/deprecated_definitions.h \
+ E\:\Clion_for_STM32\UART_PWM\Middlewares\Third_Party\FreeRTOS\Source\portable\GCC\ARM_CM4F/portmacro.h \
+ E\:\Clion_for_STM32\UART_PWM\Middlewares\Third_Party\FreeRTOS\Source\include/mpu_wrappers.h \
+ E\:\Clion_for_STM32\UART_PWM\Middlewares\Third_Party\FreeRTOS\Source\include/task.h \
+ E\:\Clion_for_STM32\UART_PWM\Middlewares\Third_Party\FreeRTOS\Source\include/list.h \
+ E\:\Clion_for_STM32\UART_PWM\Middlewares\Third_Party\FreeRTOS\Source\include/croutine.h
